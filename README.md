@@ -13,7 +13,7 @@
 - 🌱 Currently learning **Advanced React & Backend Development**
 - 💻 Interested in **Web Development, REST APIs & Full Stack Development**
 - 🚀 Building projects using **PHP, React & MySQL**
-- 📫 Reach me: **your-email@gmail.com**
+- 📫 Reach me: **arunsveradis@gmail.com**
 - 🌐 Portfolio: **Coming Soon**
 
 ---
@@ -40,11 +40,11 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=arunsveradis&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=arunsveradis&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arunsveradis&layout=compact&theme=tokyonight)
 
 ---
 
@@ -52,7 +52,7 @@
 
 <p align="left">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/arunsveradis">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -60,7 +60,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:arunsveradis@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
