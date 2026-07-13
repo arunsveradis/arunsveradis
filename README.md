@@ -1,24 +1,18 @@
-<h1 align="center">Hi 👋, I'm Arun</h1>
-<h3 align="center">PHP Full Stack Developer | React Learner | Problem Solver</h3>
+<h1 align="center">Hi I'm Arun</h1>
+<h3 align="center">PHP Full Stack Developer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=PHP+Developer;React+Developer;REST+API+Developer;Always+Learning+New+Technologies" />
-</p>
+## About Me
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 Passionate Software Developer
+- 🎓 M.Sc. Computer Science Graduate
 - 🌱 Currently learning **Advanced React & Backend Development**
 - 💻 Interested in **Web Development, REST APIs & Full Stack Development**
 - 🚀 Building projects using **PHP, React & MySQL**
 - 📫 Reach me: **arunsveradis@gmail.com**
-- 🌐 Portfolio: **Coming Soon**
+- 🌐 Portfolio: **https://s-arun-dev-portfolio.netlify.app/**
 
 ---
 
-## 🚀 Languages & Tools
+## Languages & Tools
 
 <p align="left">
 
@@ -26,29 +20,28 @@
 
 </p>
 
-### 💾 Database
+### Frontend
+
+- HTML
+- CSS
+- Java Script
+- React JS
+- Tailwind CSS
+
+### Database
 
 - SQL
 - MySQL
 
-### 🔥 Backend
+### Backend
 
 - PHP
+- Python
 - REST API
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=arunsveradis&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=arunsveradis&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arunsveradis&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Connect with Me
+## Connect with Me
 
 <p align="left">
 
@@ -68,7 +61,7 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 | Frontend | Backend | Database | Tools |
 |----------|----------|-----------|-------|
@@ -80,13 +73,36 @@
 
 ---
 
-### 🚀 Current Goals
+## Featured Project
 
-- ✅ Master React
-- ✅ Build Full Stack Projects
-- ✅ Learn Laravel
-- ✅ Improve DSA
-- ✅ Contribute to Open Source
+### Spice Trails
+
+A full-stack web application showcasing India's regional cuisines and authentic recipes.
+
+### Features
+
+- 🍛 Explore India's diverse regional cuisines and traditional recipes
+- 🔐 Secure user authentication and database management using Supabase
+- 👨‍💻 Complete Admin Panel for managing:
+  - States
+  - Categories
+  - Recipes
+  - User Feedback
+- 💳 Integrated Razorpay payment gateway for premium access
+- 📱 Responsive and user-friendly interface
+
+### Technologies Used
+
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="50" height="50"/>
+
+<img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white"/>
+
+</p>
 
 ---
 
