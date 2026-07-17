@@ -20,25 +20,6 @@
 
 </p>
 
-### Frontend
-
-- HTML
-- CSS
-- Java Script
-- React JS
-- Tailwind CSS
-
-### Database
-
-- SQL
-- MySQL
-
-### Backend
-
-- PHP
-- Python
-- REST API
-
 ---
 
 ## Connect with Me
